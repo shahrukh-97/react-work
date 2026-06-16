@@ -1,0 +1,23 @@
+.header{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px ;
+    margin-bottom: 20px;
+}
+
+.logoname{
+    text-decoration: underline;
+}
+
+.btn {
+    border: 1px solid #eee;
+    background-color: #bd0101;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 8px 20px;
+}
