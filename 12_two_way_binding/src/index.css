@@ -20,4 +20,5 @@ input,button{
   color: #fff;
   font-size: 18px;
   margin: 10px;
+  border-radius: 8px;
 }
